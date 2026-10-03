@@ -1,0 +1,2 @@
+# RidePulse-360-----NCR-Ride-Booking-Mobility-Intelligence
+Interactive Power BI dashboard analyzing NCR ride-booking operations and mobility performance across 150K bookings. Tracks completion rate, cancellation reasons, vehicle performance across 7 ride types, revenue and payment trends,  pickup/drop location demand through 5 modules: Overview, Operations, Vehicle Type, Revenue and Location Intelligence
